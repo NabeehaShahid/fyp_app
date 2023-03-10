@@ -1,0 +1,20 @@
+.sidebar {
+    background-color: #1A1C22;
+    height: 100vh;
+  }
+  
+  .logo-container {
+    padding: 1rem;
+  }
+  
+  .logo {
+    max-width: 100%;
+  }
+
+  .sidebar .nav-link.selected {
+    background-color: #675AFF;
+    border-radius: 10px;
+    padding: 10px;
+  }
+
+  

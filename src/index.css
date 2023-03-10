@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  font-family: 'Poppins' !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height:100%;
+  font-weight:400 !important;
+  font-size: 14px !important;
+}
+html{
+  height:100%
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+    height:100%;
+}
+
+
+/* Set the background color */
+body {
+  background-color: #1A1C22;
+}
+
+/* Set the primary color */
+.navbar {
+  background-color: #675AFF;
+}
+
+.navbar-nav .nav-link {
+  color: #fff;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #fff;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Set the background color and primary color for the sidebar */
+.sidebar {
+  background-color: #1A1C22;
+}
+
+.sidebar a {
+  color: #fff;
+}
+
+.sidebar a:hover {
+  color: #fff;
+  background-color: rgba(255, 255, 255, 0.1);
+}
