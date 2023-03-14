@@ -28,7 +28,7 @@ const CardAnalytics = (props) => {
   return (
     <div className='card-my p-3 my-3'>
         <div className='d-flex flex-column justify-content-between '>
-          <p className='text-white fs-5 d-block'>Analytics</p>
+          <p className='text-white fs-5 d-block'>Statistics</p>
           <div>
           <Chart
             chartType="AreaChart"
