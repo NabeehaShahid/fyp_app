@@ -7,10 +7,10 @@ export const data = [
   ["Mon", 1000],
   ["Tue", 1170],
   ["Wed", 660],
-  ["Thurs", 1030],
+  ["Thu", 1030],
   ["Fri", 1130],
   ["Sat", 1050],
-  ["Sunday", 1000]
+  ["Sun", 1000]
 ];
 
 export const options = {
